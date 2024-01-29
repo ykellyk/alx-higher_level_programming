@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# 101-nqueens.py
+
 import sys
 
 
