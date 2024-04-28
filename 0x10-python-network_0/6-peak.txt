@@ -1,1 +1,2 @@
-O(log(n))
+# find a peak complexity
+O(n)
